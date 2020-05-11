@@ -2,5 +2,9 @@
 layout: slide
 title: “Welcome to our second slide :D!”
 ---
-Your test
+```javascript
+if (today){
+  return 'you can!'
+}
+```
 Use the left arrow to go back!
